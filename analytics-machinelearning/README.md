@@ -56,7 +56,7 @@ This solution will be discarded by deleting the Machine Learning Workspace this 
 ![Solution Diagram](/images/settings.png)
 
 ## References
-[Microsoft Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-ml)
-[Enterprise and Basic Editions of Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/concept-editions)
-[K-Means Clustering](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/k-means-clustering?WT.mc_id=docs-article-lazzeri)
-[CRoss-Industry Standard Process for Data Mining](http://www.datascience-pm.com/crisp-dm-2/)
+1. [Microsoft Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-ml)
+1. [Enterprise and Basic Editions of Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/concept-editions)
+1. [K-Means Clustering](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/k-means-clustering?WT.mc_id=docs-article-lazzeri)
+1. [CRoss-Industry Standard Process for Data Mining](http://www.datascience-pm.com/crisp-dm-2/)
